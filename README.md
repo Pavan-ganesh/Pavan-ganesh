@@ -18,9 +18,7 @@ const pavan = {
   funFact: "I debug faster when I talk to the rubber duck 🐥"
 };
 ```
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="250" alt="Walking Duck" />
-</p>
+
 
 ### Current Mission 
 
@@ -30,4 +28,4 @@ const pavan = {
     <li>Learning advanced React patterns and backend optimization</li>
   </ul> 
 
-"The only way to do great work is to love what you do." – Steve Jobs
+<h3> "The only way to do great work is to love what you do." </h3> – Steve Jobs
