@@ -5,6 +5,7 @@
 
 ---
 
+
 ### 🧑‍💻 Who Am I?
 
 ```js
@@ -17,5 +18,7 @@ const pavan = {
   funFact: "I debug faster when I talk to the rubber duck 🐥"
 };
 
-📌 Quote That Drives Me
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pavan-ganesh&show_icons=true&theme=github_dark&hide_title=true&count_private=true" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan-ganesh&theme=github-dark" />
+<br clear="both"><br>
+
 "The only way to do great work is to love what you do." – Steve Jobs
