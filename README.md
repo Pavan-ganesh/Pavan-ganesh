@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Pavan+Ganesh+%F0%9F%91%8B;Aspiring+Full+Stack+Web+Developer!;JavaScript+%7C+React+%7C+Node+%7C+PostgreSQL+%7C+Java;Let's+build+something+awesome+together+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Pavan+Ganesh+%F0%9F%91%8B; Aspiring+Full+Stack+Web+Developer!; JavaScript+%7C+React+%7C+Node+%7C+PostgreSQL+%7C+Java+%7c+Python; 
+    Let's+build+something+awesome+together+%F0%9F%9A%80" />
 </p>
 
 ---
