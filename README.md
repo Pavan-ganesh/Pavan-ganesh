@@ -12,12 +12,12 @@
 const pavan = {
   name: "Bonthu Pavan Ganesh",
   code: ["JavaScript", "Java", "Python"],
-  tools: ["React.js", "Node.js", "PostgreSQL", "Dataverse", "Git", "VS Code"],
+  tools: ["React.js", "Node.js", "PostgreSQL", "Git", "Github", "VS Code"],
   currentFocus: "Building full-stack apps & open-source projects",
   askMeAbout: ["Web Dev", "React", "Node", "Backend Design", "PostgreSQL"],
   funFact: "I debug faster when I talk to the rubber duck 🐥"
 };
-
+```
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pavan-ganesh&show_icons=true&theme=github_dark&hide_title=true&count_private=true" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan-ganesh&theme=github-dark" />
 <br clear="both"><br>
 
