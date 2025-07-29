@@ -18,7 +18,16 @@ const pavan = {
   funFact: "I debug faster when I talk to the rubber duck 🐥"
 };
 ```
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pavan-ganesh&show_icons=true&theme=github_dark&hide_title=true&count_private=true" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan-ganesh&theme=github-dark" />
-<br clear="both"><br>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="250" alt="Walking Duck" />
+</p>
+
+### Current Mission 
+
+  <ul>
+    <li>Leveling up in full-stack development</li>
+    <li>Seeking a developer role to build production-grade apps</li>
+    <li>Learning advanced React patterns and backend optimization</li>
+  </ul> 
 
 "The only way to do great work is to love what you do." – Steve Jobs
